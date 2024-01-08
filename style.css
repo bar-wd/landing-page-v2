@@ -82,3 +82,40 @@ h2 {
   width: 150px;
   border-radius: 25px;
 }
+
+.container-three {
+  background-color: #e5e7eb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #1f2937;
+}
+
+.quote {
+  width: 650px;
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 300;
+}
+
+.thor {
+  text-align: right;
+  font-weight: bold;
+}
+
+.container-four {
+  display: flex;
+  justify-content: center;
+  color: #f9faf8;
+}
+
+.container-four > div {
+  background-color: #3882f6;
+  display: flex;
+}
+
+button {
+  outline: none;
+  background: transparent;
+  border: 1px solid transparent;
+}
