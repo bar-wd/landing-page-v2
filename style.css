@@ -133,3 +133,13 @@ button {
   width: 100px;
   height: 25px;
 }
+
+.footer {
+  background-color: #1f2937;
+  color: #e5e7eb;
+  font-size: 18px;
+  padding: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
