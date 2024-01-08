@@ -68,5 +68,16 @@ h2 {
 }
 
 .container-two > div {
+  width: 150px;
   display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.blank-box {
+  border-style: solid;
+  border-color: #3882f6;
+  height: 150px;
+  width: 150px;
+  border-radius: 25px;
 }
